@@ -1,4 +1,4 @@
-def my_select(array) 
+def my_select(arr) 
   new_arr = []
   i = 0
   while i < arr.length 
